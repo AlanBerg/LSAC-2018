@@ -1,7 +1,7 @@
 ##  LSAC-2018 Hackathon
 ***October 24-25 2018***
 
-This github location is the evidence hub for the [LSAC 2018 hackathon](http://lsac2018.org). A two day event for hacking anaonymous Educational data and infrastructure for the benefit of the life long learner.
+This [github location](https://github.com/AlanBerg/LSAC-2018) is the evidence hub for the [LSAC 2018 hackathon](http://lsac2018.org). A two day event for hacking anaonymous Educational data and infrastructure for the benefit of the life long learner.
 
 For information on a series of [interrelated hackathons](https://lakhackathon.files.wordpress.com/2018/02/lakhackathon2018_paper_2.pdf) please visit the [website](https://lakhackathon.wordpress.com/about/history/)
 
