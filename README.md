@@ -5,13 +5,13 @@ This [github location](https://github.com/AlanBerg/LSAC-2018) is the evidence hu
 
 For information on a series of [interrelated hackathons](https://lakhackathon.files.wordpress.com/2018/02/lakhackathon2018_paper_2.pdf) please visit the [website](https://lakhackathon.wordpress.com/about/history/)
 
-## Structure
-
 See the [Agenda](http://lsac2018.org/#hackathon)
 
 The hackathon isn’t a conventional academic workshop. New ideas are still encouraged and very welcome on the day. Please come ready to pitch your idea with a 15 minute (maximum) presentation.
 
-One key difference to a normal workshop is that we expect to produce outputs during the workshop, as well as having inputs at the start of the hackathon.
+One key difference to a normal workshop is that we expect to produce outputs during the workshop, as well as having inputs at the start of the hackathon. Hackathon attendees can get themselves added to the Participants Team to get write access. Drop Alan and Tom an email
+
+## Structure of the Repository
 
 We will follow the practice of previous  hackathons, taking care to organise and preserve the outputs from the hackathon in GitHub. This repository has been set up for the 2018 hackathon; this will include:
 
@@ -20,11 +20,17 @@ We will follow the practice of previous  hackathons, taking care to organise and
 * Notes, diagrams, etc created by the working groups
 * Code developed during the hackathon
 
-Hackathon attendees can get themselves added to the Participants Team to get write access. Drop Alan and Tom an email
+Directories in Github and their meaning:
+
+1. ***slides/*** - copies of slide decks used in the introductory part of the Hackathon.
+2. ***technical_docs/*** - documentation etc for the technical infrastructure.
+3. ***groups/*** - a place where each working group can deposit outputs of any kind, from photographs of flipcharts to working code.
 
 ## Copyright
 
 The default outbound software license for the evidence stored in this Github repository is the Apache License, Version 2.0. In the absence of an explicit licensing declaration, software evidence is implicitly licensed under the Apache License, Version 2.0. More specific information about the Apache License is available in the [Apache License and Distribution FAQ](http://www.apache.org/foundation/license-faq.html).
+
+
 
 
 ## Resources
