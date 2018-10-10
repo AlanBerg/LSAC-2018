@@ -26,6 +26,15 @@ Hackathon attendees can get themselves added to the Participants Team to get wri
 
 The default outbound software license for the evidence stored in this Github repository is the Apache License, Version 2.0. In the absence of an explicit licensing declaration, software evidence is implicitly licensed under the Apache License, Version 2.0. More specific information about the Apache License is available in the [Apache License and Distribution FAQ](http://www.apache.org/foundation/license-faq.html).
 
+
+## Resources
+
+http://lsac2018.org
+
+## Related to
+
+LAK hackathons 
+
 ## Organisers
 
 **Alan Mark Berg**\
