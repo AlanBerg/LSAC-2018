@@ -29,11 +29,8 @@ The default outbound software license for the evidence stored in this Github rep
 
 ## Resources
 
-http://lsac2018.org
+1. [Evidence hub](https://github.com/LAK-Hackathon)
 
-## Related to
-
-LAK hackathons 
 
 ## Organisers
 
