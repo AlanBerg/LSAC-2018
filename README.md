@@ -35,6 +35,7 @@ The default outbound software license for the evidence stored in this Github rep
 
 ## Resources
 
+1. [Multimodal Exercise](https://github.com/dimstudio/multimodal-analyzer/blob/master/MultimodalHack_with_CPR.ipynb)
 1. [Evidence hub](https://github.com/LAK-Hackathon)
 
 
