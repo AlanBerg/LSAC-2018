@@ -58,7 +58,7 @@ Dinner Details
 ========================================================
 
 
-**al Bàcaro**<br>
+**al B<U+00E0>caro**<br>
 Vijzelstraat 97,<br>
 1017 HH Amsterdam	<br>
 
