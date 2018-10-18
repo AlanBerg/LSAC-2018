@@ -31,12 +31,21 @@ Directories in Github and their meaning:
 The default outbound software license for the evidence stored in this Github repository is the Apache License, Version 2.0. In the absence of an explicit licensing declaration, software evidence is implicitly licensed under the Apache License, Version 2.0. More specific information about the Apache License is available in the [Apache License and Distribution FAQ](http://www.apache.org/foundation/license-faq.html).
 
 
+## Privacy and Personal Information
 
+Please take care not to disclose any person-identifying information, or to transgress legal or ethical standards for protection of privacy
+
+## Activities
+
+1. [Multimodal Exercise](https://github.com/dimstudio/multimodal-analyzer/blob/master/MultimodalHack_with_CPR.ipynb)
+2. [Hacking the hackaton](https://github.com/AlanBerg/LSAC-2018/tree/master/Groups/HackingHackathon)
+3. [Authentic Tasks from 10000 monsterboard advertisments](https://github.com/LAK-Hackathon/LAK18Hackathon/tree/master/groups/Eportfolio)
+4. [A Risk Mitigation dashboard for Learning Analytics]()
 
 ## Resources
 
-1. [Multimodal Exercise](https://github.com/dimstudio/multimodal-analyzer/blob/master/MultimodalHack_with_CPR.ipynb)
 1. [Evidence hub](https://github.com/LAK-Hackathon)
+2. Previous activities that you can consider to [continue](https://github.com/LAK-Hackathon/LAK18Hackathon/tree/master/groups)
 
 
 ## Organisers
