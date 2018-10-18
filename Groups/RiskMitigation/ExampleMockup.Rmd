@@ -1,0 +1,65 @@
+---
+title: "Risk Mitigation Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    theme: readable
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Overview 
+=====================================  
+
+### TOP TEN LIST
+
+### Key points to note
+
+<span style="background-color:Plum;">**REF-2:**</span>{data-navmenu="Medium"}
+=====================================  
+
+### Description
+
+### RISK Level
+
+### Impact
+
+### Mitigation
+
+### Extra Resources
+
+
+<span style="background-color:Plum;">**REF-3:**</span>{data-navmenu="Low"}
+=====================================  
+
+### Description
+
+### RISK Level
+
+### Impact
+
+### Mitigation
+
+### Extra Resources
+
+
+Contact{data-navmenu="Help"}
+===================================== 
+
+### Information
+
+
+Process {data-navmenu="Help"}
+===================================== 
+
+### Information
+
+
+Resources {data-navmenu="Help"}
+===================================== 
+
+### Information
+
