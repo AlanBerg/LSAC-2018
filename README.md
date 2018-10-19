@@ -40,7 +40,7 @@ Please take care not to disclose any person-identifying information, or to trans
 1. [Multimodal Exercise](https://github.com/dimstudio/multimodal-analyzer/blob/master/MultimodalHack_with_CPR.ipynb)
 2. [Hacking the hackaton](https://github.com/AlanBerg/LSAC-2018/tree/master/Groups/HackingHackathon)
 3. [Authentic Tasks from 10000 monsterboard advertisments](https://github.com/LAK-Hackathon/LAK18Hackathon/tree/master/groups/Eportfolio)
-4. [A Risk Mitigation dashboard for Learning Analytics]()
+4. [A Risk Mitigation dashboard for Learning Analytics](https://github.com/AlanBerg/LSAC-2018/tree/master/Slides/RiskMitigationDashBoard)
 
 ## Resources
 
