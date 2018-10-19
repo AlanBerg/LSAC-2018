@@ -8,7 +8,9 @@ To build a Risk Mitigation dashboard with a resonable estimate of the risks asso
 **RQ4:** How do we periodically review and update the Risks?\
 
 
-Slides from [LSAC 2018](https://github.com/AlanBerg/LSAC-2018/blob/master/Groups/HackingHackathon/Hacking%20the%20hackathon-Presentation.pdf)
+Slides from [LSAC 2018](https://github.com/AlanBerg/LSAC-2018/blob/master/Groups/HackingHackathon/Hacking%20the%20hackathon-Presentation.pdf)\
+Template [Dashboard](https://github.com/AlanBerg/LSAC-2018/tree/master/Groups/RiskMitigation)\
+Flexdashboard [homepage](https://rmarkdown.rstudio.com/flexdashboard/examples.html)
 
 ## Starting point
 
