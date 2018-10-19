@@ -88,6 +88,9 @@ Searchable Library {data-navmenu="Library"}
 ```{r}
 DT::datatable(Risks, extensions = 'Buttons',editable = TRUE, rownames = FALSE, options = list(
     dom = 'Bfrtip',
+    colReorder = TRUE,
+    keys = TRUE,
+    rowReorder = TRUE,
     buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
   )
 )
@@ -101,6 +104,9 @@ Websites {data-navmenu="Library"}
 ```{r}
 DT::datatable(Websites, extensions = 'Buttons',editable = TRUE, rownames = FALSE, options = list(
     dom = 'Bfrtip',
+    colReorder = TRUE,
+    keys = TRUE,
+    rowReorder = TRUE,
     buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
   )
 )
