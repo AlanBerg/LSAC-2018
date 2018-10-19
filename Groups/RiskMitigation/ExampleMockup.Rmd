@@ -9,6 +9,11 @@ output:
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
+
+# If needed run once from the Console
+# install.packages("DT")
+library(readr)
+Risks <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/cb65e9efba522b872615ec1bad682ec0d85cd89e/Groups/RiskMitigation/Risks.csv")
 ```
 
 Overview 
@@ -16,12 +21,29 @@ Overview
 
 ### TOP TEN LIST
 
+
+```{r child = 'Fragments/Description.md'}
+```
+
 ### Key points to note
+
+<span style="background-color:Plum;">**REF-3:**</span>{data-navmenu="High"}
+=====================================  
+
+### Description
+
+### RISK Level
+
+### Impact
+
+### Mitigation
+
 
 <span style="background-color:Plum;">**REF-2:**</span>{data-navmenu="Medium"}
 =====================================  
 
 ### Description
+
 
 ### RISK Level
 
@@ -57,9 +79,24 @@ Process {data-navmenu="Help"}
 
 ### Information
 
+Searchable Library {data-navmenu="Library"}
+===================================== 
+
+### Search and print
+
+```{r}
+DT::datatable(Risks, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
 
 Resources {data-navmenu="Help"}
 ===================================== 
 
 ### Information
+
+
 
