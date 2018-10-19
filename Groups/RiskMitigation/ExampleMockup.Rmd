@@ -14,6 +14,7 @@ library(flexdashboard)
 # install.packages("DT")
 library(readr)
 Risks <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/cb65e9efba522b872615ec1bad682ec0d85cd89e/Groups/RiskMitigation/Risks.csv")
+Websites <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/master/Groups/RiskMitigation/URL.csv")
 ```
 
 Overview 
@@ -85,12 +86,26 @@ Searchable Library {data-navmenu="Library"}
 ### Search and print
 
 ```{r}
-DT::datatable(Risks, extensions = 'Buttons', options = list(
+DT::datatable(Risks, extensions = 'Buttons',editable = TRUE, rownames = FALSE, options = list(
     dom = 'Bfrtip',
     buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
   )
 )
 ```
+
+Websites {data-navmenu="Library"}
+===================================== 
+
+### Intersting online sources
+
+```{r}
+DT::datatable(Websites, extensions = 'Buttons',editable = TRUE, rownames = FALSE, options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
 
 
 Resources {data-navmenu="Help"}
