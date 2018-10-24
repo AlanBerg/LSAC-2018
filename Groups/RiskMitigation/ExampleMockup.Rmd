@@ -29,16 +29,11 @@ Overview
 
 ### Key points to note
 
-<span style="background-color:Plum;">**REF-3:**</span>{data-navmenu="High"}
-=====================================  
 
-### Description
 
-### RISK Level
-
-### Impact
-
-### Mitigation
+```{r child = 'Fragments/REF-3.md'}
+# Add a text fragment
+```
 
 
 <span style="background-color:Plum;">**REF-2:**</span>{data-navmenu="Medium"}
