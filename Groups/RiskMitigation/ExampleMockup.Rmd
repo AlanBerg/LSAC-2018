@@ -73,6 +73,14 @@ Overview
 # Add a text fragment
 ```
 
+```{r child = 'Fragments/REF-7.md'}
+# Add a text fragment
+```
+
+```{r child = 'Fragments/REF-8.md'}
+# Add a text fragment
+```
+
 Contact{data-navmenu="Help"}
 ===================================== 
 
