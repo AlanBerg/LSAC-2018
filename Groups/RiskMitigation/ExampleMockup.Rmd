@@ -15,6 +15,9 @@ library(flexdashboard)
 library(readr)
 Risks <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/cb65e9efba522b872615ec1bad682ec0d85cd89e/Groups/RiskMitigation/Risks.csv")
 Websites <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/master/Groups/RiskMitigation/URL.csv")
+
+# COlor codes
+# https://htmlcolorcodes.com
 ```
 
 Overview 
@@ -36,33 +39,13 @@ Overview
 ```
 
 
-<span style="background-color:Plum;">**REF-2:**</span>{data-navmenu="Medium"}
-=====================================  
+```{r child = 'Fragments/REF-4.md'}
+# Add a text fragment
+```
 
-### Description
-
-
-### RISK Level
-
-### Impact
-
-### Mitigation
-
-### Extra Resources
-
-
-<span style="background-color:Plum;">**REF-3:**</span>{data-navmenu="Low"}
-=====================================  
-
-### Description
-
-### RISK Level
-
-### Impact
-
-### Mitigation
-
-### Extra Resources
+```{r child = 'Fragments/REF-5.md'}
+# Add a text fragment
+```
 
 
 Contact{data-navmenu="Help"}
