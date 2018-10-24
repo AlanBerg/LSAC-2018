@@ -9,7 +9,7 @@ output:
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
-
+library(networkD3)
 # If needed run once from the Console
 # install.packages("DT")
 library(readr)
@@ -19,6 +19,23 @@ Websites <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/maste
 # COlor codes
 # https://htmlcolorcodes.com
 ```
+
+Graph
+=====================================
+
+```{r}
+URL <- paste0(
+        "graphdata.json")
+
+## Convert to list format
+Flare <- jsonlite::fromJSON(URL, simplifyDataFrame = FALSE)
+
+# Use subset of data for more readable diagram
+Flare$children = Flare$children[1:3]
+
+radialNetwork(List = Flare, fontSize = 11, opacity = 0.9)
+```
+
 
 Overview 
 =====================================  
