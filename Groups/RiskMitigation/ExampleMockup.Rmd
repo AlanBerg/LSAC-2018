@@ -32,12 +32,17 @@ Overview
 
 ### Key points to note
 
+```{r child = 'Fragments/REF-1.md'}
+# Add a text fragment
+```
 
+```{r child = 'Fragments/REF-2.md'}
+# Add a text fragment
+```
 
 ```{r child = 'Fragments/REF-3.md'}
 # Add a text fragment
 ```
-
 
 ```{r child = 'Fragments/REF-4.md'}
 # Add a text fragment
