@@ -134,10 +134,9 @@ Contact{data-navmenu="Help"}
 ### Information
 
 
-Process {data-navmenu="Help"}
-===================================== 
-
-### Information
+```{r child = 'Fragments/Process.md'}
+# Add a text fragment
+```
 
 Searchable Library {data-navmenu="Library"}
 ===================================== 
