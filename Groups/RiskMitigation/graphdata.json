@@ -2,34 +2,7 @@
  "name": "LAAS",
  "children": [
   {
-   "name": "Dashboards",
-   "children": [
-    {
-     "name": "cluster",
-     "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
-     ]
-    },
-    {
-     "name": "graph",
-     "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
-     ]
-    },
-    {
-     "name": "optimization",
-     "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
-     ]
-    }
-   ]
+    "name": "Privacy and Security", "size": 90889
   },
   {
    "name": "Policy and Culture",
@@ -57,16 +30,8 @@
   {
    "name": "Intervention strategies",
    "children": [
-    {"name": "DirtySprite", "size": 8833},
-    {"name": "LineSprite", "size": 1732},
-    {"name": "RectSprite", "size": 3623},
-    {"name": "TextSprite", "size": 10066}
-   ]
-  },
-  {
-   "name": "Jobmarket intelligence",
-   "children": [
-    {"name": "FlareVis", "size": 4116}
+    {"name": "Accuracy of Algorithm", "size": 8833},
+    {"name": "Human touch", "size": 1732}
    ]
   },
     {
@@ -75,7 +40,13 @@
       {"name": "Not fit with practice", "size": 1759},
       {"name": "Willingness to experiment", "size": 9809},
       {"name": "Bridging understandings of measurements", "size": 6462},
-      {"name": "Ad hoc implementation", "size": 34545}
+      {"name": "Ad hoc implementation", "size": 34545},
+      {"name": "Multidisciplinary", 
+      "children": [
+        {"name": "Jargon", "size": 8833},
+        {"name": "Terminology", "size": 1732},
+        {"name": "Developers knowledge about learning", "size": 3623}
+      ]}
    ]
   }
  ]
