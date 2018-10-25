@@ -35,7 +35,7 @@ Flare <- jsonlite::fromJSON(URL, simplifyDataFrame = FALSE)
 # Use subset of data for more readable diagram
 Flare$children = Flare$children[1:3]
 
-radialNetwork(List = Flare, fontSize = 11, opacity = 0.9)
+radialNetwork(List = Flare, fontSize = 11, opacity = 0.9, fontFamily = 'News Cycle')
 ```
 
 
