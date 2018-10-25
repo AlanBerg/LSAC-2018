@@ -50,17 +50,9 @@
   {
    "name": "Teacher knowledge",
    "children": [
-    {
-     "name": "Validity of measurements",
-     "children": [
-      {"name": "Converters", "size": 721},
-      {"name": "DelimitedTextConverter", "size": 4294},
-      {"name": "GraphMLConverter", "size": 9800},
-      {"name": "IDataConverter", "size": 1314},
-      {"name": "JSONConverter", "size": 2220}
-     ]
-    }
-   ]
+      {"name": "Weak evidence base for effectiveness", "size": 345453},
+       {"name": "Validity of measurements","size": 7688}
+    ]
   },
   {
    "name": "Intervention strategies",
