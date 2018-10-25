@@ -128,10 +128,10 @@ Top 10
 # Add a text fragment
 ```
 
-Contact{data-navmenu="Help"}
-===================================== 
 
-### Information
+```{r child = 'Fragments/Contact.md'}
+# Add a text fragment
+```
 
 
 ```{r child = 'Fragments/Process.md'}
