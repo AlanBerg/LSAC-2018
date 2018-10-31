@@ -6,7 +6,6 @@ output:
     vertical_layout: fill
     theme: journal
     css: custom.css
-
 ---
 
 ```{r setup, include=FALSE}
@@ -18,7 +17,7 @@ library(readr)
 Risks <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/cb65e9efba522b872615ec1bad682ec0d85cd89e/Groups/RiskMitigation/Risks.csv")
 Websites <- read_csv("https://raw.githubusercontent.com/AlanBerg/LSAC-2018/master/Groups/RiskMitigation/URL.csv")
 
-# COlor codes
+# Color codes
 # https://htmlcolorcodes.com
 ```
 
@@ -135,6 +134,11 @@ Top 10
 
 
 ```{r child = 'Fragments/Process.md'}
+# Add a text fragment
+```
+
+
+```{r child = 'Fragments/Gabor-Ref-20-53.md'}
 # Add a text fragment
 ```
 
